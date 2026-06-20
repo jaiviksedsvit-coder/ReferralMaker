@@ -80,7 +80,8 @@ if submit_button:
             You are an expert Executive Career Coach and Technical Recruiter. 
             Your goal is to write a highly compelling, personalized LinkedIn referral request (under 150 words).
             Analyze all provided context. If LinkedIn URLs are provided, try to extract or infer details from the URL slugs to draw parallels between the user and the contact.
-            Do not use generic placeholders. Make sure the text sounds human, warm, and confident.
+            Do not use generic placeholders. make sure it a linkedin message and not a email. make it more personal using all info given.
+            and not sound you are begging for role. you are connecting with them and then you got to know about role and using parallels you are asking for referral.
             """
             
             user_prompt = f"""
