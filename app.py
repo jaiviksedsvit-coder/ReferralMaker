@@ -107,9 +107,9 @@ if submit_button:
             """
             
             try:
-                # Assuming gemini-2.0-flash as the current standard
+                # Assuming gemini-3.1-flash-lite as the current standard
                 response = client.models.generate_content(
-                    model='gemini-2.0-flash',
+                    model='gemini-3.1-flash-lite',
                     contents=user_prompt,
                     config=types.GenerateContentConfig(
                         system_instruction=system_instruction,
