@@ -1,6 +1,9 @@
 # 🚀 ReferralCraft AI (v2.0)
 ### *Turn Cold Job Applications into High-Converting Employee Referrals*
 
+> [!WARNING]
+> 🚧 **Work In Progress** — This project is actively being developed and is not yet at its full potential. Features may be incomplete, rough around the edges, or subject to change. Follow along as it evolves!
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
 [![Powered by Google Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini%202.5-4285F4?logo=google)](https://aistudio.google.com)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
